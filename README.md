@@ -110,6 +110,3 @@ The files found at this project are the following:
 - weekday (TEXT): Name of week day associated to start_time
 
 
-## Authors
-
-* **Florencia Silvestre** - [Github](https://github.com/Flor91) - [LinkedIn](https://www.linkedin.com/in/florencia-silvestre-2683587b/)
